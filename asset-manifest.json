@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/intern-react-ui-sample/static/css/main.7d2b34ad.chunk.css",
+    "main.js": "/intern-react-ui-sample/static/js/main.9ce75e02.chunk.js",
+    "main.js.map": "/intern-react-ui-sample/static/js/main.9ce75e02.chunk.js.map",
+    "runtime-main.js": "/intern-react-ui-sample/static/js/runtime-main.1b88e95a.js",
+    "runtime-main.js.map": "/intern-react-ui-sample/static/js/runtime-main.1b88e95a.js.map",
+    "static/js/2.041fa4aa.chunk.js": "/intern-react-ui-sample/static/js/2.041fa4aa.chunk.js",
+    "static/js/2.041fa4aa.chunk.js.map": "/intern-react-ui-sample/static/js/2.041fa4aa.chunk.js.map",
+    "index.html": "/intern-react-ui-sample/index.html",
+    "static/css/main.7d2b34ad.chunk.css.map": "/intern-react-ui-sample/static/css/main.7d2b34ad.chunk.css.map",
+    "static/js/2.041fa4aa.chunk.js.LICENSE.txt": "/intern-react-ui-sample/static/js/2.041fa4aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b88e95a.js",
+    "static/js/2.041fa4aa.chunk.js",
+    "static/css/main.7d2b34ad.chunk.css",
+    "static/js/main.9ce75e02.chunk.js"
+  ]
+}
